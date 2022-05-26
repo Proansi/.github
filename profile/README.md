@@ -1,4 +1,4 @@
-<a href="https://proansi.com.br"><img src="github.png" alt="Proansi Tecnologia"></a>
+<a href="https://proansi.com.br"><img src="https://proansi.com.br/web-assets/github.png" alt="Proansi Tecnologia"></a>
 
 # Proansi Tecnologia
 
